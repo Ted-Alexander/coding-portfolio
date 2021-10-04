@@ -7,4 +7,4 @@ https://ted-alexander.github.io/coding-portfolio/
 
 # Image of the site
 
-![screenshot of website](Capture.PNG)
+![image of website](Capture.JPG)
