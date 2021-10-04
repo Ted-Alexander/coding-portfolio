@@ -5,14 +5,14 @@
 }
 
 body {
-    background-color: #9bbed0;
+    background-color: #5793b1;
 }
 
 .header {
     padding-top: 15px;
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: hsl(215, 60%, 65%);
+    background-color: hsl(216, 31%, 52%);
     color: #ffffff;
 }
 
@@ -94,3 +94,7 @@ body {
     display: inline-block;
 
 }
+
+.card:hover {
+    transform: scale(1.1);
+  }
